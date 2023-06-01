@@ -1,9 +1,8 @@
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution
-#    This module copyright (C) 2018 Marlon Falcon Hernandez
-#    (<http://www.marlonfalcon.com>).
-#
+#    This module copyright (C) 2018 Jhoset Trujillo C.
+#    
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
 #    published by the Free Software Foundation, either version 3 of the
@@ -20,10 +19,10 @@
 ##############################################################################
 
 {
-    'name': 'Father MFH',
+    'name': 'Kenn_Analytix JTC',
     'version': '16.0.1.0.0',
-    'author': 'Marlon Falcon Hernandez',
-    'maintainer': 'Marlon Falcon Hernandez',
+    'author': 'Jhoset Trujillo C.',
+    'maintainer': 'Jhoset Trujillo C.',
     'website': 'http://www.marlonfalcon.com',
     'license': 'AGPL-3',
     'category': 'Extra Tools',
